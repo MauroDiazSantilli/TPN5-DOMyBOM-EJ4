@@ -1,4 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
 body{
+    font-family: 'Raleway', sans-serif;
     display: flex;
     flex-direction: column;
     min-height: 100vh;
@@ -6,4 +9,10 @@ body{
 
 main{
     flex-grow: 1;
+}
+
+.horayfecha{
+    font-size: 2em;
+    color: gainsboro;
+    
 }
